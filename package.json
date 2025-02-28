@@ -1,0 +1,29 @@
+{
+  "name": "prisma-introspection",
+  "version": "1.0.0",
+  "description": "Use to create a prisma schema out of existing DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ridvan-bot/prisma-introspection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ridvan-bot/prisma-introspection/issues"
+  },
+  "homepage": "https://github.com/Ridvan-bot/prisma-introspection#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "prisma": "^6.4.1"
+  }
+}
