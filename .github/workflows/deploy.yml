@@ -1,4 +1,4 @@
-name: Templet build and deploy
+name: Build and Deploy Prisma Introspection
 
 on:
   push:
